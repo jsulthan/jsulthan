@@ -1,0 +1,1 @@
+Hi, I am Jamaal Sulthan and I am a Mechatronics Student. I am actively looking and interested in software development or web development! I am currently improving my skills everyday and learning more about Front End development. I am also interested in machine learning and AI which I am opening studying. If you would like to contact me, please email me at sulthanjamaal@gmail.com 
