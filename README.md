@@ -5,7 +5,7 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamaal-sulthan/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sulthanjamaal@gmail.com)](mailto:sulthanjamaal@gmail.com)
 
-<p>Welcome to my page! </br> I'm Jamaal, Fullstack developer from <b>Canada</b>, currently living in <b>Toronto, Ontario</b>. </p>
+<p>Welcome to my page! </br> I'm Jamaal, software developer from <b>Canada</b>, currently living in <b>Toronto, Ontario</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
